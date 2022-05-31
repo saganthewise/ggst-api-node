@@ -6,3 +6,9 @@ test('should return an array', ()=>{
         expect(Array.isArray(data)).toBe(true);
     })
 })
+
+test('should return valid rcode profile', ()=>{
+    return ggstApi.getRcode(process.env.testStriveID).then(data => {
+        expect(data['Update_Year']).toBeGreaterThan(2020);
+    })
+})
