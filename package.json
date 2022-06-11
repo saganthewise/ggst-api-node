@@ -16,5 +16,9 @@
   },
   "devDependencies": {
     "jest": "^28.1.0"
+  },
+  "repository": {
+    "type": "git",
+    "utl": "https://github.com/saganthewise/ggst-api-node"
   }
 }
