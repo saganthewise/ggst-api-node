@@ -19,6 +19,6 @@
   },
   "repository": {
     "type": "git",
-    "utl": "https://github.com/saganthewise/ggst-api-node"
+    "url": "https://github.com/saganthewise/ggst-api-node"
   }
 }
