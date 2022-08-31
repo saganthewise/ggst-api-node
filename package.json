@@ -1,6 +1,6 @@
 {
   "name": "ggst-api-node",
-  "version": "1.0.0",
+  "version": "1.0.4",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -16,5 +16,9 @@
   },
   "devDependencies": {
     "jest": "^28.1.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/saganthewise/ggst-api-node"
   }
 }
