@@ -12,7 +12,9 @@
     "axios": "^0.27.2",
     "dotenv": "^16.0.1",
     "msgpackr": "^1.6.1",
-    "querystring": "^0.2.1"
+    "querystring": "^0.2.1",
+    "steam-session": "^1.2.2",
+    "steam-user": "^4.28.3"
   },
   "devDependencies": {
     "jest": "^28.1.0"
